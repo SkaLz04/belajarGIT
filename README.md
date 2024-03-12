@@ -9,3 +9,18 @@ Daftar tugas / branch
    
 Daftar perintah GiT
 …
+cd "E:\TUGAS KULIAH\Pemograman Web"
+git clone https://github.com/SkaLz04/belajarGIT.git
+cd belajarGIT
+git branch (daftar tugas)
+git checkout (daftar tugas)
+touch (daftar tugas.txt)
+git add (daftar Tugas.txt)
+git commit -m "Menambahkan Daftar Tugas.txt"    
+git checkout main
+git merge (Daftar Tugas)
+git push origin main
+git add README.md
+git commit -m "Menambah informasi perintah git pada README.md"
+git push origin main
+git push origin --all
